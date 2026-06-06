@@ -1,6 +1,9 @@
-## °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
+##      ｡ﾟﾟ(」｡≧□≦)」
 
-<img src="./yakuza-kiryu-kazuma-kiryu-typing-gif-7380693253990557386"/>
+
+
+<img width="498" height="332" alt="_com apple Pasteboard pkpOxQ" src="https://github.com/user-attachments/assets/3ed0e5df-7ea3-46b5-b072-ee84d04330f1" />
+
 <!--
 **emimeowmeow/emimeowmeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
