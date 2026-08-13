@@ -4,6 +4,7 @@
 
 <img width="498" height="332" alt="_com apple Pasteboard pkpOxQ" src="https://github.com/user-attachments/assets/3ed0e5df-7ea3-46b5-b072-ee84d04330f1" />
 
+<a href="https://hits.sh/github.com/emimeowmeow/hits/"><img alt="Hits" src="https://hits.sh/github.com/emimeowmeow/hits.svg?color=331414&labelColor=692938"/></a>
 <!--
 **emimeowmeow/emimeowmeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
