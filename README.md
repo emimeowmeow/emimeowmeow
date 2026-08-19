@@ -1,8 +1,8 @@
 ##      ｡ﾟﾟ(」｡≧□≦)」
 
 
+<img width="364" height="205" alt="obrazek GIF" src="https://github.com/user-attachments/assets/31f3150a-7873-429e-ab89-370848aad9e4" />
 
-<img width="498" height="332" alt="_com apple Pasteboard pkpOxQ" src="https://github.com/user-attachments/assets/3ed0e5df-7ea3-46b5-b072-ee84d04330f1" />
 
 <a href="https://hits.sh/github.com/emimeowmeow/hits/"><img alt="Hits" src="https://hits.sh/github.com/emimeowmeow/hits.svg?color=331414&labelColor=692938"/></a>
 <!--
