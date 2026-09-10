@@ -1,7 +1,8 @@
 ##      ｡ﾟﾟ(」｡≧□≦)」
 
 
-<img width="364" height="205" alt="obrazek GIF" src="https://github.com/user-attachments/assets/31f3150a-7873-429e-ab89-370848aad9e4" />
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/5ebf27bf-e0b7-4377-a76f-abcb9029d626" />
+
 
 
 <a href="https://hits.sh/github.com/emimeowmeow/hits/"><img alt="Hits" src="https://hits.sh/github.com/emimeowmeow/hits.svg?color=331414&labelColor=692938"/></a>
